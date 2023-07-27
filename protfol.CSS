@@ -61,3 +61,8 @@ h2 {
 #Baby-web {
     border-left: 7px solid blue;
 }
+
+footer p {
+    text-align: center;
+    color: rosybrown;
+}
