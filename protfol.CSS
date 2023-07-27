@@ -1,0 +1,33 @@
+.Orange {
+    color: orange;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 4%;
+}
+
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 55%;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+}
+
+.top-banner {
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+}
